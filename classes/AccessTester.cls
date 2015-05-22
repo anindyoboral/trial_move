@@ -5,6 +5,8 @@ public with sharing class AccessTester {
     //Created       :   nov 2013 as an aid to the ordering form
     //Description   :   This class allows to programmatically test readability or writeability for a certain logged on user as it would be through 
     //                  standard page layouts.
+    
+    // changes done by COE directly on Production  :-) :-)
 
     public static Boolean testReadable(Id theId){
         String typeName = theId.getSObjectType().getDescribe().getName();

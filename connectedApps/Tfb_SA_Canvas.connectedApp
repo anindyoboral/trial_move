@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <canvasConfig>
+        <accessMethod>Post</accessMethod>
+        <canvasUrl>https://cafe.prod.apps.telenet.be/AddressWeb/</canvasUrl>
+        <locations>Visualforce</locations>
+        <locations>PageLayout</locations>
+        <samlInitiationMethod>None</samlInitiationMethod>
+    </canvasConfig>
+    <contactEmail>bishwendrakumar_s@infosys.com</contactEmail>
+    <description>This connected application is created as a part of SAF Project to enable TINA Address Search screen on the Salesforce UI on Lead, Account and Opportunity detail pages</description>
+    <iconUrl>https://telenet.be/sites/all/themes/telenet/favicon-16x16.png</iconUrl>
+    <label>Tfb SA Canvas</label>
+    <logoUrl>https://c.cs14.content.force.com/servlet/servlet.ImageServer?id=015c0000000B7fK&amp;oid=00Dc0000003uBbn</logoUrl>
+    <oauthConfig>
+        <callbackUrl>https://cafe.prod.apps.telenet.be/AddressWeb/</callbackUrl>
+        <consumerKey>3MVG9WtWSKUDG.x4FteKJ0mVxmsIHUfwu1s8_yZISaz8nufWDBo78TcfwKIUd9zOD97kls1Xnz0P8tlbFoUIc</consumerKey>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
