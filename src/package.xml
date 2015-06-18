@@ -4,5 +4,9 @@
         <members>TJ__c</members>
         <name>CustomObject</name>
     </types>
+     <types>
+        <members>TJclass__c</members>
+        <name>ApexClass</name>
+    </types>
     <version>32.0</version>
 </Package>
