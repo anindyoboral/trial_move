@@ -1,2 +1,2 @@
-# Infosys
+
 My Organization
